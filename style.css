@@ -1,0 +1,27 @@
+header> nav > ul {
+    list-style: none;
+}
+body > header{
+    background-color: dodgerblue;
+    color: white;
+}
+
+header > nav > ul > li > a {
+    color: white;
+    list-style: none;
+}
+body > footer {
+    background-color:  dodgerblue;
+    color: white;
+    text-align: center;
+    padding: 4px;
+   }
+
+body > footer > p {
+    margin: 0px;
+    font-size: 8px;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
